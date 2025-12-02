@@ -1,3 +1,4 @@
 intel-data/
 .ipynb_checkpoints/
 .venv
+data/
